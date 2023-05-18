@@ -1,0 +1,64 @@
+.rightbar{
+    width: 24vw;
+    height: 98vh;
+    background-color: #C7D5DE;
+    margin-left: 76vw;
+    padding-top:2vh ;
+    
+
+
+}
+.balance{
+    width: 19.8vw;
+    height: 12vh;
+    background-color: aliceblue;
+    margin-left: 2.5vw;
+    background: rgba(255, 255, 255, 0.2);
+    /* border-radius: 16px; */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 2px solid #2b6777;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 2vh;
+}
+
+ table {
+    /* border: 2px solid none; */
+    width: 20.2vw;
+    height: 40vh;
+    background-color: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    
+    margin: 5vh 0 0 2vw;
+    padding: 0;
+    color: #2b6777;
+    border: 2px solid #2b6777;
+    
+   
+  }
+    
+  th {
+    border-bottom: 1px solid black;
+    color: #2b6777;
+  }
+    
+  td {
+    text-align: center;
+  } 
+  .table-container{
+    margin-left: 0.5vw;
+    margin-top: -3vh ;
+  }
+ 
+  .ad{
+    width: 20vw;
+    height: 32vh;
+    background-image: url('./ad.jpg');
+    background-size: cover;
+    margin: 2vh 0 0 2.5vw;
+    border: 2px solid #2b6777;
+
+  }
